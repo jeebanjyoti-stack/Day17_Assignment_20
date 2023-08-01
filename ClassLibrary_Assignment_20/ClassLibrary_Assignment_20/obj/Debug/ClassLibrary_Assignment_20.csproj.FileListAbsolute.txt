@@ -1,0 +1,6 @@
+D:\C# Programme\Day-17\ClassLibrary_Assignment_20\ClassLibrary_Assignment_20\bin\Debug\ClassLibrary_Assignment_20.dll
+D:\C# Programme\Day-17\ClassLibrary_Assignment_20\ClassLibrary_Assignment_20\bin\Debug\ClassLibrary_Assignment_20.pdb
+D:\C# Programme\Day-17\ClassLibrary_Assignment_20\ClassLibrary_Assignment_20\obj\Debug\ClassLibrary_Assignment_20.csproj.AssemblyReference.cache
+D:\C# Programme\Day-17\ClassLibrary_Assignment_20\ClassLibrary_Assignment_20\obj\Debug\ClassLibrary_Assignment_20.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day-17\ClassLibrary_Assignment_20\ClassLibrary_Assignment_20\obj\Debug\ClassLibrary_Assignment_20.dll
+D:\C# Programme\Day-17\ClassLibrary_Assignment_20\ClassLibrary_Assignment_20\obj\Debug\ClassLibrary_Assignment_20.pdb

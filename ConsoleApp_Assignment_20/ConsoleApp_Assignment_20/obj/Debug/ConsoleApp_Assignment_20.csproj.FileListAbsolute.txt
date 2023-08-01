@@ -1,0 +1,11 @@
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\bin\Debug\ConsoleApp_Assignment_20.exe.config
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\bin\Debug\ConsoleApp_Assignment_20.exe
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\bin\Debug\ConsoleApp_Assignment_20.pdb
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\bin\Debug\ClassLibrary_Assignment_20.dll
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\bin\Debug\ClassLibrary_Assignment_20.pdb
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\obj\Debug\ConsoleApp_Assignment_20.csproj.AssemblyReference.cache
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\obj\Debug\ConsoleApp_Assignment_20.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\obj\Debug\ConsoleApp_Assignment_20.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\obj\Debug\ConsoleApp_Assignment_20.csproj.CopyComplete
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\obj\Debug\ConsoleApp_Assignment_20.exe
+D:\C# Programme\Day-17\ConsoleApp_Assignment_20\ConsoleApp_Assignment_20\obj\Debug\ConsoleApp_Assignment_20.pdb
